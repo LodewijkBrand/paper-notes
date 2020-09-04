@@ -1,2 +1,9 @@
 # paper-notes
-Collection of papers to read/reading
+
+## September 2020
+ - An ADMM-Based Interior-Point Method for Large-Scale Linear Programming
+    - Authors: Tianyi Lin, Shiqian Ma, Yinyu Ye, Shuzhong Zhang 
+    - [paper](https://arxiv.org/pdf/1805.12344.pdf)
+ - Douglas-Rachford splitting and ADMM for nonconvex optimization: Accelerated and Newton-type algorithms
+    - Authors: Andreas Themelis, Lorenzo Stella, Panagiotits Patrinos
+    - [paper](https://arxiv.org/pdf/2005.10230.pdf)
