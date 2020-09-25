@@ -12,3 +12,4 @@
  - https://arxiv.org/pdf/2006.08141.pdf
  - https://sites.usc.edu/razaviyayn/teaching/
  - https://arxiv.org/pdf/2006.08141.pdf
+ - https://web.stanford.edu/~yyye/yyye/book.ps
