@@ -13,3 +13,4 @@
  - https://sites.usc.edu/razaviyayn/teaching/
  - https://arxiv.org/pdf/2006.08141.pdf
  - https://web.stanford.edu/~yyye/yyye/book.ps
+ - https://epubs.siam.org/doi/pdf/10.1137/15M1044448?casa_token=8EcQrBW-Z0wAAAAA:UtbSjJjhguAh-mN9J5fWS_BT3G0Y3rrExzmulLPfWZl8UEKFagFr4M-GbgaLfOkJTt-Z0RD5ooM
