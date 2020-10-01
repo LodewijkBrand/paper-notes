@@ -4,6 +4,7 @@
  - https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.118.005122
  - https://arxiv.org/pdf/1705.03412.pdf
  - https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8886705
+ - https://arxiv.org/pdf/1907.03343.pdf
 
 ## September 2020
  - An ADMM-Based Interior-Point Method for Large-Scale Linear Programming
