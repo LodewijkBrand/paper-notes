@@ -1,5 +1,8 @@
 # paper-notes
 
+## October 2020
+ - https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.118.005122
+
 ## September 2020
  - An ADMM-Based Interior-Point Method for Large-Scale Linear Programming
     - Authors: Tianyi Lin, Shiqian Ma, Yinyu Ye, Shuzhong Zhang 
@@ -14,4 +17,3 @@
  - https://arxiv.org/pdf/2006.08141.pdf
  - https://web.stanford.edu/~yyye/yyye/book.ps
  - https://epubs.siam.org/doi/pdf/10.1137/15M1044448?casa_token=8EcQrBW-Z0wAAAAA:UtbSjJjhguAh-mN9J5fWS_BT3G0Y3rrExzmulLPfWZl8UEKFagFr4M-GbgaLfOkJTt-Z0RD5ooM
- - https://www.ahajournals.org/doi/10.1161/CIRCOUTCOMES.118.005122
