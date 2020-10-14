@@ -13,6 +13,9 @@
  - Fast and Provable ADMM for Learning with Generative Priors
    - Authors: Fabian Latorre Gómez, Armin Eftekhari, Volkan Cevher
    - [paper](https://arxiv.org/pdf/1907.03343.pdf)
+ - Understanding Machine Learning: From Theory to Algorithms
+   - Authors: Shai Shalev-Shwartz and Shai Ben-David
+   - [book](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
 
 ## September 2020
  - An ADMM-Based Interior-Point Method for Large-Scale Linear Programming
