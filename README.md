@@ -1,5 +1,13 @@
 # paper-notes
 
+## Febuary 2021
+ - Decision Tree SVM: An extension of linear SVM for non-linear classification
+   - [paper](https://www.sciencedirect.com/science/article/pii/S0925231219314304)
+ - Novel Support Vector Machines for Diverse Learning Paradigms
+   - [thesis](https://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=6718&context=etd)
+ - New primal SVM solver with linear computational cost for big data classifications
+   - [paper](https://dl.acm.org/doi/abs/10.5555/3044805.3044949)
+
 ## October 2020
  - Privacy-Preserving Generative Deep Neural Networks Support Clinical Data Sharing
    - Authors: Brett K. Beaulieu-Jones, Zhiwei Steven Wu, Chris Williams, Ran Lee, Sanjeev P. Bhavnani, James Brian Byrd, Casey S. Greene
