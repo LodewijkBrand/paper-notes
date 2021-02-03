@@ -1,6 +1,8 @@
 # paper-notes
 
 ## Febuary 2021
+ - Robust SVM with adaptive graph learning
+   - [paper](https://link.springer.com/article/10.1007/s11280-019-00766-x)
  - Decision Tree SVM: An extension of linear SVM for non-linear classification
    - [paper](https://www.sciencedirect.com/science/article/pii/S0925231219314304)
  - Novel Support Vector Machines for Diverse Learning Paradigms
